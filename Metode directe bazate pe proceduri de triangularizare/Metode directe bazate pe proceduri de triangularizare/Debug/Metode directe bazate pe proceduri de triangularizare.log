@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\Metode directe bazate pe proceduri de triangularizare\Metode directe bazate pe proceduri de triangularizare\Source.cpp(34,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\source\repos\Metode directe bazate pe proceduri de triangularizare\Metode directe bazate pe proceduri de triangularizare\Source.cpp(63,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Metode directe bazate pe proceduri de triangularizare.vcxproj -> C:\Users\David\source\repos\Metode directe bazate pe proceduri de triangularizare\Debug\Metode directe bazate pe proceduri de triangularizare.exe
