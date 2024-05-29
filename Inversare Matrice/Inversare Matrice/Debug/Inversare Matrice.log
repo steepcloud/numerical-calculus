@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\Inversare Matrice\Inversare Matrice\Source.cpp(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\source\repos\Inversare Matrice\Inversare Matrice\Source.cpp(76,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\source\repos\Inversare Matrice\Inversare Matrice\Source.cpp(86,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Inversare Matrice.vcxproj -> C:\Users\David\source\repos\Inversare Matrice\Debug\Inversare Matrice.exe
