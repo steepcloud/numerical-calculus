@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\FactorizareLR_Doolittle\FactorizareLR_Doolittle\Source.cpp(34,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\source\repos\FactorizareLR_Doolittle\FactorizareLR_Doolittle\Source.cpp(48,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David\source\repos\FactorizareLR_Doolittle\FactorizareLR_Doolittle\Source.cpp(56,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FactorizareLR_Doolittle.vcxproj -> C:\Users\David\source\repos\FactorizareLR_Doolittle\Debug\FactorizareLR_Doolittle.exe

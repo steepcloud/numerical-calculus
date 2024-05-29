@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,20): error C2131: expression did not evaluate to a constant
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,18): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,18): message : see usage of 'n'
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,30): error C2131: expression did not evaluate to a constant
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,28): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(26,28): message : see usage of 'n'
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(30,18): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(31,18): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(33,22): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(37,18): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(38,18): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(40,22): error C3863: array type 'double [n+1]' is not assignable
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(71,27): error C2131: expression did not evaluate to a constant
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(71,25): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\David\source\repos\Calcul numeric - Lab1p4\Calcul numeric - Lab1p4\Source.cpp(71,25): message : see usage of 'n'
